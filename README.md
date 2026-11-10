@@ -32,7 +32,7 @@ My goal is to develop practical technical solutions and contribute to research t
 
 A Python-based utility for calculating MD5, SHA-1 and SHA-256 hashes to support file-integrity verification and basic digital evidence documentation.
 
-**2. Intelligent Cybercrime Reporting and Analysis Platform (ICRAP)**
+**2. Intelligent Cybercrime Reporting and Analysis Platform (ICRAP) Leveraging Machine Learning and Natural Language Processing**
 
 An academic project exploring cybercrime reporting, classification and analysis using web technologies and machine-learning approaches.
 
