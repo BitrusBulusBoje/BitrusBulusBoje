@@ -1,5 +1,5 @@
 # Bitrus Bulus Boje
-### Cybersecurity Graduate | Digital Forensics | Cybercrime Investigation | AI-Assisted Security Research
+### Cybersecurity Professional | Digital Forensics & Cybercrime Investigation | Python Developer | IoT Security & AI Research | Exploring Intelligent Sensor Networks and Geospatial Intelligence (GRIDLINK).
 
 Welcome to my GitHub profile!
 
