@@ -3,19 +3,25 @@
 
 Welcome to my GitHub profile!
 
-I am a Cybersecurity graduate from **Federal University Dutse, Nigeria**, with an academic foundation in Electrical/Electronics Engineering and a growing interest in digital forensics, cybercrime investigation, artificial intelligence, and applied cybersecurity research.
+I am a Cybersecurity graduate from **Federal University Dutse, Nigeria**, with a National Diploma in **Electrical/Electronics Engineering** from Federal Polytechnic Bauchi. My academic background, combined with professional experience in law enforcement and security operations, has shaped my interest in developing technology-driven solutions to complex security and investigative challenges.
 
-My goal is to develop practical technical solutions and contribute to research that advances digital investigation, cybersecurity analysis, and responsible applications of emerging technologies.
+My research interests lie at the intersection of **Cybersecurity, Electrical and Computer Engineering, Artificial Intelligence, Digital Forensics, and Intelligent Sensor Systems**. I am particularly interested in digital evidence analysis, cybercrime investigation, distributed sensing, IoT security, geospatial intelligence, and the application of AI and machine learning to security analytics.
+
+I am currently developing **GRIDLINK**, a research concept exploring intelligent, distributed sensor networks and geospatial intelligence to support physical crime investigation, cross-incident analysis, and evidence-informed investigative decision-making.
+
+My goal is to contribute to interdisciplinary research and develop practical, reliable, and privacy-conscious technological solutions that advance digital investigation, intelligent security systems, and the responsible application of emerging technologies.
 
 ### Research Interests
 
 - Digital Forensics and Digital Evidence Analysis
-- Artificial Intelligence and Machine Learning in Cybersecurity
+- Digital Evidence Integrity and Verification
 - Cybercrime Investigation and Investigative Analytics
+- Artificial Intelligence and Machine Learning for Security Applications
 - Geospatial Intelligence and Cross-Incident Analysis
-- Digital Evidence Integrity
-- Privacy-Preserving Data Analysis
-
+- Internet of Things (IoT) Security and Embedded Systems
+- Distributed Sensor Networks, Intelligent Sensing and Sensor Data Fusion
+- Privacy-Preserving Data Analysis and Intelligent Security Systems
+  
 ### Technical Skills and Tools
 
 **Programming:** Python, React, JavaScript, Laravel
